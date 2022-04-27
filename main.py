@@ -69,7 +69,7 @@ def sim():
 
    if flag>0 and flag<3:
     if flag==2:
-     time.sleep(0.5)
+     time.sleep(0.2)
     round+=1
     main2=calculation(x,y,main2)
     if flag==1:
